@@ -155,9 +155,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Amit Kumar Paliwal - [amitkumarpaliwal@gmail.com](mailto:amitkumarpaliwal@gmail.com)
 
-Project Link: [https://github.com/yourusername/your-project-name](https://github.com/amitkumarpaliwal/vite-react-tailwind)
+Project Link: [https://github.com/amitkumarpaliwal/vite-react-tailwind](https://github.com/amitkumarpaliwal/vite-react-tailwind)
 
 ---
 
